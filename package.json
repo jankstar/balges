@@ -1,9 +1,15 @@
 {
-    "name": "application-name"
+    "name": "balges"
   , "version": "0.0.1"
   , "private": true
   , "dependencies": {
       "express": "2.5.0"
     , "jade": ">= 0.0.1"
+	, "mongodb": ">= 0.0.1"
+	, "mongoose": ">= 0.0.1"
+	, "hooks": ">= 0.0.1"
+	, "hiredis": ">= 0.0.1"
+	, "redis": ">= 0.0.1"
+	, "colors": ">= 0.0.1"
   }
 }
